@@ -1,0 +1,27 @@
+body {
+    font-size: 15pt;
+    background-color: #d5deef ;
+}
+h1 {
+  text-align: center;
+  font-family: cursive;
+  font-weight: 800px;
+  color: rgb(210, 120, 130);
+  font-size: 80px;
+}
+p {
+  font-size: 40px;
+  text-align: center;
+  color: goldenrod;
+  font-family: cursive;
+}
+#sai {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: whitesmoke;
+}
+.container{
+  text-align: center;
+  align-items: center;
+  font-size: 80px;
+}
